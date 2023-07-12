@@ -1,6 +1,6 @@
 👋 Hi, I’m Sten Remmelg (@sremm)
 
-👀 My biggest interests lie in the field of sports, health, performance optimization. When it comes to programming, I see it as an awesome tool, to help bring data to help make objective decisions in the fields.
+👀 My biggest interests lie in the field of sports, health, performance optimization. When it comes to programming, I see it as an awesome tool, that helps make data useful.
 
 My sharpest tools in my toolbox:
  - Using python to automate everything
