@@ -3,7 +3,7 @@
 👀 My biggest interests lie in the field of sports, health, performance optimization.
 Within sports, anything that deals with acrobatics is of special interest. Currently I'm active as a coach and athlete in cheerleading.
 
-When it comes to programming, I see it as an awesome tool, that helps make data useful.
+When it comes to programming, I like making data accessible so that it can be made useful for real people.
 
 My sharpest tools in my toolbox:
  - Using python to automate everything
