@@ -1,14 +1,10 @@
 👋 Hi, I’m Sten Remmelg (@sremm)
 
-👀 My biggest interests lie in the field of sports, health, performance optimization.
-Within sports, anything that deals with acrobatics is of special interest. Currently I'm active as a coach and athlete in cheerleading.
+As a sports enthusiast and former athlete, I navigate the intersections of sports, science, and technology, driven by a curiosity for the intricacies of the human body. 
 
-When it comes to programming, I like making data accessible so that it can be made useful for real people.
+With a background in judo and cheerleading, I've developed an appreciation for movement and its intricate relationship with the mind. 
 
-My sharpest tools in my toolbox:
- - Using python to automate everything
- - Building machine learning models
- - Taking ideas from Zero to One.
+Now, I channel that passion into my work, utilizing engineering to delve deeper into understanding human movement and exploring ways to disseminate that knowledge to individuals.
 
 📫 Hit me up if you feel like it! 
 - [LinkedIn](https://www.linkedin.com/in/stenremmelg/) 
